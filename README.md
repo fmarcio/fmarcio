@@ -18,7 +18,7 @@
 
 <ul>
         <li> :smiley: Brazilian front-end dev seeking an intership or a job as a jr. </li>
-        <li> :computer: knowledgement in HTML, CSS e JS.</li>
+        <li> :computer: knowledge in HTML, CSS e JS.</li>
         <li> :notebook: Internet systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
