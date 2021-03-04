@@ -4,7 +4,7 @@
         <li> :smiley: Atualmente sou dev front-end em busca de estágio ou emprego como jr.</li>
         <li> :round_pushpin: Recife, PE</li>
         <li> :computer: Conhecimentos em HTML, CSS, JS, jQuery e Bootstrap</li>
-        <li> :notebook: Estudante de Sistemas para Internet.</li>
+        <li> :notebook: Estudante de Sistemas para Informação.</li>
         <li> :art: Também estou no <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contato: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
         <li> :speech_balloon: Inglês fluente.</li>
@@ -19,7 +19,7 @@
 <ul>
         <li> :smiley: Brazilian front-end dev seeking an intership or a job as a jr. </li>
         <li> :computer: Knowledge in HTML, CSS, JS, jQuery and Bootstrap.</li>
-        <li> :notebook: Internet systems student.</li>
+        <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
         <li> :speech_balloon: Fluent english speaker</li>
