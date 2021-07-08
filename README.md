@@ -3,7 +3,8 @@
   <ul>
         <li> :smiley: Atualmente sou iniciante em desenvolvimento front-end</li>
         <li> :round_pushpin: Recife, PE</li>
-        <li> :computer: Conhecimentos em HTML, CSS, JS, jQuery e Bootstrap</li>
+        <li> :computer: Conhecimentos em HTML, CSS, JS e Bootstrap</li>
+        <li> :computer: Atualmente: iniciante em React</li>
         <li> :notebook: Estudante de Sistemas de Informação.</li>
         <li> :art: Também estou no <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contato: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
@@ -18,7 +19,8 @@
 
 <ul>
         <li> :smiley: Brazilian front-end dev (beginner)</li>
-        <li> :computer: Knowledge in HTML, CSS, JS, jQuery and Bootstrap.</li>
+        <li> :computer: Knowledge in HTML, CSS, JS and Bootstrap.</li>
+        <li> :computer: Currently: React beginner</li>
         <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
