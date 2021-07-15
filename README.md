@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
   <ul>
-        <li> :smiley: Atualmente sou iniciante em desenvolvimento front-end</li>
+        <li> :smiley: Aprendendo desenvolvimento web: foco em front-end</li>
         <li> :round_pushpin: Recife, PE</li>
         <li> :computer: Conhecimentos em HTML, CSS, JS e Bootstrap</li>
         <li> :computer: Atualmente: iniciante em React</li>
@@ -18,7 +18,7 @@
 ### English
 
 <ul>
-        <li> :smiley: Brazilian front-end dev (beginner)</li>
+        <li> :smiley: Front-end dev apprentice</li>
         <li> :computer: Knowledge in HTML, CSS, JS and Bootstrap.</li>
         <li> :computer: Currently: React beginner</li>
         <li> :notebook: Information systems student.</li>
