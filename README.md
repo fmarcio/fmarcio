@@ -19,6 +19,7 @@
 
 <ul>
         <li> :smiley: Front-end dev apprentice</li>
+        <li> :round_pushpin: Recife, PE (Brazil)</li>
         <li> :computer: Knowledge in HTML, CSS, JS and Bootstrap.</li>
         <li> :computer: Currently: React beginner</li>
         <li> :notebook: Information systems student.</li>
