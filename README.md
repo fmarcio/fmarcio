@@ -18,7 +18,7 @@
 ### English
 
 <ul>
-        <li> :smiley: Front-end apprentice</li>
+        <li> :smiley: Learning web development: focus on Front-end</li>
         <li> :round_pushpin: Recife, PE (Brazil)</li>
         <li> :computer: Knowledge in HTML, CSS, JS and Bootstrap.</li>
         <li> :computer: Currently: React beginner</li>
