@@ -25,7 +25,7 @@
         <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
-        <li> :speech_balloon: Great understanding of English</li>
+        <li> :speech_balloon: Great understanding of English (reading, writing and speaking)</li>
         <li>
             :+1: Extras: Degree in advertising & media, with prior experience in communication.
         </li>
