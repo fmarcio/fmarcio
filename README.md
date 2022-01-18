@@ -32,9 +32,9 @@
    </ul>
    
    <div align="center">
-    <a href="https://github.com/bchandotcom">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lioc3sar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioc3sar&layout=compact&langs_count=7&theme=github_dark"/>
+    <a href="https://github.com/fmarcio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bchandotcom&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmarcio&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <!--
