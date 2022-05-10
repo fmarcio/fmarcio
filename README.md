@@ -3,7 +3,7 @@
   <ul>
         <li> :smiley: Aprendendo desenvolvimento web: foco em front-end</li>
         <li> :round_pushpin: Recife, PE</li>
-        <li> :computer: Conhecimentos em HTML, CSS, JS e Bootstrap</li>
+        <li> :computer: Conhecimentos em HTML, CSS, JS, React, Typescript e Bootstrap</li>
         <li> :computer: Atualmente: iniciante em React</li>
         <li> :notebook: Estudante de Sistemas de Informação.</li>
         <li> :art: Também estou no <a href="https://behance.net/marcio-fonseca">Behance</a></li>
@@ -20,7 +20,7 @@
 <ul>
         <li> :smiley: Learning web development: focus on front-end</li>
         <li> :round_pushpin: Recife, PE (Brazil)</li>
-        <li> :computer: Knowledge in HTML, CSS, JS and Bootstrap.</li>
+        <li> :computer: Knowledge in HTML, CSS, JS, React, Typescript and Bootstrap.</li>
         <li> :computer: Currently: React beginner</li>
         <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
