@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
   <ul>
-        <li> :smiley: Aprendendo desenvolvimento web: foco em front-end</li>
+        <li> :smiley: Dev front-end junior</li>
         <li> :round_pushpin: Recife, PE</li>
         <li> :computer: Conhecimentos em HTML, CSS, JS, React, Typescript e Bootstrap</li>
         <li> :computer: Atualmente: iniciante em React</li>
@@ -18,7 +18,7 @@
 ### English
 
 <ul>
-        <li> :smiley: Learning web development: focus on front-end</li>
+        <li> :smiley: Junior front-end dev</li>
         <li> :round_pushpin: Recife, PE (Brazil)</li>
         <li> :computer: Knowledge in HTML, CSS, JS, React, Typescript and Bootstrap.</li>
         <li> :computer: Currently: React beginner</li>
