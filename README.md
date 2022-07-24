@@ -4,7 +4,6 @@
         <li> :smiley: Dev front-end junior</li>
         <li> :round_pushpin: Recife, PE</li>
         <li> :computer: Conhecimentos em HTML, CSS, JS, React, Typescript e Bootstrap</li>
-        <li> :computer: Atualmente: iniciante em React</li>
         <li> :notebook: Estudante de Sistemas de Informação.</li>
         <li> :art: Também estou no <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contato: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
@@ -21,7 +20,6 @@
         <li> :smiley: Junior front-end dev</li>
         <li> :round_pushpin: Recife, PE (Brazil)</li>
         <li> :computer: Knowledge in HTML, CSS, JS, React, Typescript and Bootstrap.</li>
-        <li> :computer: Currently: React beginner</li>
         <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
