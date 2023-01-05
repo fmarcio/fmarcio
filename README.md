@@ -29,14 +29,7 @@
         </li>
    </ul>
 
-<br>
-<a href="https://github.com/fmarcio/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fmarcio&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=fmarcio&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmarcio&layout=compact"/>
-</a>
 
 
 
