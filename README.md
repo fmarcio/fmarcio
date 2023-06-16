@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 <ul>
-        <li> :smiley: Junior front-end dev. Currently based in Recife, PE (Brazil) </li>
+        <li> :smiley: Front-end developer. Currently based in Recife, PE (Brazil) </li>
         <li> :computer: Knowledge in JS, React, Typescript, HTML, CSS </li>
         <li> :notebook: Information systems student.</li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
