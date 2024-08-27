@@ -2,8 +2,8 @@
 
 <ul>
         <li> :smiley: Front-end developer. Currently based in Recife, PE (Brazil) </li>
-        <li> :computer: Knowledge in JS, React, Typescript, HTML, CSS </li>
-        <li> :notebook: Information systems student.</li>
+        <li> :computer: Knowledge in JS, React, Typescript, HTML, CSS, Jest, Playwright </li>
+        <li> :notebook: Degree in Information systems </li>
         <li> :art: I'm also on <a href="https://behance.net/marcio-fonseca">Behance</a></li>
         <li> :envelope: Contact me: <a href="mailto:marcio.fonseca88@gmail.com">marcio.fonseca88@gmail.com</a></li>
         <li> :speech_balloon: Great understanding of English (listening, reading, writing and speaking)</li>    
