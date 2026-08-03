@@ -10,7 +10,7 @@
     * HTML / CSS / SASS
     * Jest, React Testing Library
     * Playwright
-* :notebook: Degree in Information systems (Estácio - 2024)
+* :notebook: Degree in Information Systems
 * :envelope: Contact me: marcio.fonseca88@gmail.com
 * :speech_balloon: Great understanding of English (listening, reading, writing and speaking)
 
