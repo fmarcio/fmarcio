@@ -10,7 +10,7 @@ Specialized in building scalable, responsive, and test-driven web applications u
     
 ---
     
-## 🛠️ Tech Stack & Tooling
+## Tech Stack & Tooling
     
 * **Languages & Styling:** TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS
 * **Frameworks & Libraries:** React, Next.js, Tailwind CSS, Vite, Redux, Context API
@@ -20,7 +20,7 @@ Specialized in building scalable, responsive, and test-driven web applications u
     
 ---
     
-## 🚀 Featured Projects
+## Featured Projects
     
 **[Weight & Workout Tracker](https://github.com/fmarcio/weight-tracker)**
 
@@ -50,14 +50,14 @@ Algorithmic implementations and data structures based on Aditya Bhargava's class
     
 ---
     
-## 🌐 Languages & Communication
+## Languages & Communication
     
 * **Portuguese:** Native
 * **English:** Fluent / Professional working proficiency (speaking, reading, listening, writing)
     
 ---
     
-## 📬 Let's Connect
+## Let's Connect
     
 * **Email:** [marcio.fonseca88@gmail.com](mailto:marcio.fonseca88@gmail.com)
 * **LinkedIn:** [linkedin.com/in/marciofonseca88](https://www.linkedin.com/in/marciofonseca88/)
