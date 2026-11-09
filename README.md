@@ -28,10 +28,10 @@ Full-stack personal fitness tracker with interactive progress charts, authentica
 Firestore persistence, and automated unit test suite.  
 **Stack:** Next.js, TypeScript, Tailwind CSS, Firebase, Recharts, Jest  
     
-**[CRUD ClayUI](https://github.com/fmarcio/CRUD-clayUI)**
+**[Pong: Cyberstorm](https://github.com/fmarcio/pong-cyberstorm)**
 
-Enterprise-grade CRUD application demonstrating deep integration with Liferay's ClayUI design system and component architecture.
-**Stack:** React, TypeScript, Liferay ClayUI, Tailwind CSS, Jest
+Cyberpunk-themed arcade Pong game featuring tactical energy spells, stackable court items, predictive trajectory AI, procedural Web Audio synthesis, and post-match analytics.  
+**Stack:** JavaScript (ES6+), HTML5 Canvas, Web Audio API, Playwright
     
 **[My Money App](https://github.com/fmarcio/my-money-app)**
 
